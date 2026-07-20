@@ -1,4 +1,4 @@
-# I am currently working on Making Apps and Websites.
+# I am a student, and I am learning.
 
 
 <!-- # 💻 Tech Stack: -->
