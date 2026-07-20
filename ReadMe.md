@@ -1,4 +1,4 @@
-# 💫 I am Ramanand Gupta:
+# 💫 I am Ramanand Gupta
 I am currently working on Making Apps and Websites.
 
 
