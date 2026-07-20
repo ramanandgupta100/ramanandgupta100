@@ -1,4 +1,4 @@
-# I am a student, and I am learning.
+# I am a student, and I am curious to learn.
 
 
 <!-- # 💻 Tech Stack: -->
