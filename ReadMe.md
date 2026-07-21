@@ -1,4 +1,4 @@
-# Hi, I am Ramanand Gupta
+# Hi, I am Ramanand Gupta. I make App and Website.
 
 
 <!-- # 💻 Tech Stack: -->
