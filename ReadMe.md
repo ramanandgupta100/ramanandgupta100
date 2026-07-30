@@ -18,7 +18,7 @@
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ## Machine Learning/AI
-![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://miro.medium.com/1*gw2NcnIYpiBlFy4le3pF5w.png" alt="Matplotlib" width="100">
+![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://miro.medium.com/1*gw2NcnIYpiBlFy4le3pF5w.png" alt="Matplotlib" width="100">
 
 <!--
 
