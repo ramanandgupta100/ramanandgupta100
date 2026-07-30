@@ -1,7 +1,7 @@
 
 # Hi, I am Ramanand Gupta 👋 I build App and Website !
 
-# 💻 Tech Stack
+<!-- # 💻 Tech Stack -->
 
 ## Frontend 🎨
 
