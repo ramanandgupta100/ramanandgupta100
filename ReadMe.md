@@ -15,8 +15,7 @@
 #### version controls, package managers, testers, ci cd, server managers, cdn
 
 ## Search Engines
-<img src="https://www.altnix.com/_next/static/media/Elasticsearch.ad30793e.png" alt="Elastic Search" width="100" />
-<!-- ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) -->
+![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ## Machine Learning/AI
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <img src="https://miro.medium.com/1*gw2NcnIYpiBlFy4le3pF5w.png" alt="Matplotlib" width="100">
