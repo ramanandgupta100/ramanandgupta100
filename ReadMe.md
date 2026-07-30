@@ -15,7 +15,7 @@
 #### version controls, package managers, testers, ci cd, server managers, cdn
 
 ## Search Engines
-<img src="https://files.buildwithfern.com/cohere.docs.buildwithfern.com/aa0a262c093f26386cd8e891d8a789e1e028d22220d792ff2942f879621c9dee/assets/images/17b17dc-elastic-search-logo.png" alt="Elastic Search" width="100" />
+<img src="https://www.altnix.com/_next/static/media/Elasticsearch.ad30793e.png" alt="Elastic Search" width="100" />
 <!-- ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) -->
 
 ## Machine Learning/AI
