@@ -50,6 +50,11 @@
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
+## Automation ✨
+![Automa](https://img.shields.io/badge/Automa-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+
 
 ## Machine Learning/AI 🤖
 
