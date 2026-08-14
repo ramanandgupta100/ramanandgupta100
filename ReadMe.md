@@ -87,11 +87,12 @@
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-DC2626?style=for-the-badge) -->
 
 
-## Automation ✨
+## Automations 🔄
+
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
 ![Automa](https://img.shields.io/badge/Automa-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+<!-- ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) -->
+<!-- ![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white) -->
 
 
 ## WordPress 🌐
