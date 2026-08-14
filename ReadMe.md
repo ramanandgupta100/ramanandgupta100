@@ -8,7 +8,7 @@
 <!-- # 💻 Tech Stack -->
 
 ## Frontend 
-🎨
+<!--🎨-->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -21,7 +21,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Backend 
-🏗️
+<!--🏗️-->
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
@@ -30,7 +30,7 @@
 
 
 ## DevOps 
-🚀
+<!--🚀-->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -48,16 +48,16 @@
 
 
 ## Search Engine 
-🔎
+<!--🔎-->
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
 ## Recommendation Systems 
-💡
+<!--💡-->
 ![](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## Machine Learning/AI 
-🤖
+<!--🤖-->
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -67,7 +67,7 @@
 
 
 ## Data Structures & Algorithms 
-🧩🧠
+<!--🧩🧠-->
 ### Data Structures
 
 ![Arrays](https://img.shields.io/badge/Arrays-2563EB?style=for-the-badge)
@@ -87,7 +87,7 @@
 
 
 ## Automations 
-🔄
+<!--🔄-->
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
 ![Automa](https://img.shields.io/badge/Automa-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)
 <!-- ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) -->
@@ -95,7 +95,7 @@
 
 
 ## WordPress 
-🌐
+<!--🌐-->
 No-Code Website in Minutes
 
 ![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white)
@@ -111,6 +111,6 @@ No-Code Website in Minutes
 ![UpdraftPlus](https://img.shields.io/badge/UpdraftPlus-0EA5E9?style=for-the-badge)
 
 
-## Others 🔧
-
+## Others
+<!--🔧-->
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
