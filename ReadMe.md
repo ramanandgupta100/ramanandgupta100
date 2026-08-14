@@ -51,11 +51,10 @@
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## Automation ✨
-![Automa](https://img.shields.io/badge/Automa-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
+## Recommendation Systems 💡
 
+![](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ## Machine Learning/AI 🤖
 
@@ -86,6 +85,13 @@
 <!-- ![Sorting Algorithms](https://img.shields.io/badge/Sorting_Algorithms-E11D48?style=for-the-badge)
 ![Recursion](https://img.shields.io/badge/Recursion-7C3AED?style=for-the-badge)
 ![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-DC2626?style=for-the-badge) -->
+
+
+## Automation ✨
+![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
+![Automa](https://img.shields.io/badge/Automa-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
 
 
 ## WordPress 🌐
