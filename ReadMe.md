@@ -64,7 +64,7 @@
 ## Machine Learning/AI 
 <!--🤖-->
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) -->
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 <img src="https://miro.medium.com/1*gw2NcnIYpiBlFy4le3pF5w.png" width="100" alt="Matplotlib">
 <!-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
