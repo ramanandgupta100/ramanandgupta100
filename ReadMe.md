@@ -57,7 +57,7 @@
 <!--🔎-->
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-## Recommendation Systems 
+## Recommendation System
 <!--💡-->
 ![](https://img.shields.io/badge/Elasticsearch-0377CC?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
