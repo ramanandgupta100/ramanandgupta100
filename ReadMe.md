@@ -100,7 +100,7 @@
 
  
 <!--🧩🧠-->
-## Data Structures
+## Data Structures & Algorithms
 
 ![Arrays](https://img.shields.io/badge/Arrays-2563EB?style=for-the-badge)
 ![Hash Maps](https://img.shields.io/badge/Hash_Maps-green?style=for-the-badge)
@@ -110,7 +110,6 @@
 ![Trees](https://img.shields.io/badge/Trees-16A34A?style=for-the-badge)
 ![Graphs](https://img.shields.io/badge/Graphs-F97316?style=for-the-badge) -->
 
-## Algorithms
 
 ![Searching Algorithms](https://img.shields.io/badge/Searching_Algorithms-0891B2?style=for-the-badge)
 <!-- ![Sorting Algorithms](https://img.shields.io/badge/Sorting_Algorithms-E11D48?style=for-the-badge)
