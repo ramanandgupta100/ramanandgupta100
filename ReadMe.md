@@ -8,23 +8,23 @@
 <table>
   <caption>COMPLETE LEARNING NOTES</caption>
   <tr>
-    <td><a href="https://ramanandgupta100.github.io/HTML-Complete-Learning" target="_blank">HTML</a></td>
-    <td><a href="https://ramanandgupta100.github.io/CSS-Complete-Learning/" target="_blank">CSS</a></td>
-    <td><a href="https://ramanandgupta100.github.io/JAVASCRIPT-Complete-Learning/" target="_blank" rel="noopener noreferrer">JAVASCRIPT</a></td>
-    <td><a href="https://ramanandgupta100.github.io/REACT-Complete-Learning/" target="_blank" rel="noopener noreferrer">REACT</a></td>
-    <td><a href="https://ramanandgupta100.github.io/NEXTJS-Complete-Learning/" target="_blank" rel="noopener noreferrer">NEXTJS</a></td>
-    <td><a href="https://ramanandgupta100.github.io/REACT-NATIVE-Complete-Learning/" target="_blank" rel="noopener noreferrer">REACT NATIVE</a></td>
+    <td><a href="https://ramanandgupta100.github.io/HTML-Complete-Learning/">HTML</a></td>
+    <td><a href="https://ramanandgupta100.github.io/CSS-Complete-Learning/">CSS</a></td>
+    <td><a href="https://ramanandgupta100.github.io/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
+    <td><a href="https://ramanandgupta100.github.io/REACT-Complete-Learning/">REACT</a></td>
+    <td><a href="https://ramanandgupta100.github.io/NEXTJS-Complete-Learning/">NEXTJS</a></td>
+    <td><a href="https://ramanandgupta100.github.io/REACT-NATIVE-Complete-Learning/">REACT NATIVE</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://example.com/5" target="_blank" rel="noopener noreferrer">EXPRESSJS</a></td>
-    <td><a href="https://example.com/6" target="_blank" rel="noopener noreferrer">MYSQL</a></td>
-    <td><a href="https://example.com/6" target="_blank" rel="noopener noreferrer">ELASTIC SEARCH</a></td>
+    <td><a href="https://ramanandgupta100.github.io/EXPRESSJS-Complete-Learning/">EXPRESSJS</a></td>
+    <td><a href="https://ramanandgupta100.github.io/MYSQL-Complete-Learning/">MYSQL</a></td>
+    <td><a href="https://ramanandgupta100.github.io/ELASTIC-SEARCH-Complete-Learning/">ELASTIC SEARCH</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://example.com/9" target="_blank" rel="noopener noreferrer">GIT & GITHUB</a></td>
-    <td><a href="https://example.com/10" target="_blank" rel="noopener noreferrer">DEVOPS</a></td>
+    <td><a href="https://ramanandgupta100.github.io/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
+    <td><a href="https://ramanandgupta100.github.io/DEVOPS-Complete-Learning/">DEVOPS</a></td>
   </tr>
   
 </table>
