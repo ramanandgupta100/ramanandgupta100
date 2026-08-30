@@ -7,8 +7,8 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/ramanandgupta100/HTML-Complete-Learning" target="_blank" rel="noopener noreferrer">HTML</a></td>
-    <td><a href="https://github.com/ramanandgupta100/CSS-Complete-Learning" target="_blank" rel="noopener noreferrer">CSS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/HTML-Complete-Learning" target="_blank">HTML</a></td>
+    <td><a href="https://github.com/ramanandgupta100/CSS-Complete-Learning" target="_blank">CSS</a></td>
     <td><a href="https://example.com/3" target="_blank" rel="noopener noreferrer">JAVASCRIPT</a></td>
     <td><a href="https://example.com/4" target="_blank" rel="noopener noreferrer">REACT</a></td>
     <td><a href="https://example.com/4" target="_blank" rel="noopener noreferrer">NEXTJS</a></td>
