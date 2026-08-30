@@ -98,10 +98,9 @@
 <!-- ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) -->
 <!-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
 
-
-## Data Structures & Algorithms 
+ 
 <!--🧩🧠-->
-### Data Structures
+## Data Structures
 
 ![Arrays](https://img.shields.io/badge/Arrays-2563EB?style=for-the-badge)
 ![Hash Maps](https://img.shields.io/badge/Hash_Maps-green?style=for-the-badge)
@@ -111,7 +110,7 @@
 ![Trees](https://img.shields.io/badge/Trees-16A34A?style=for-the-badge)
 ![Graphs](https://img.shields.io/badge/Graphs-F97316?style=for-the-badge) -->
 
-### Algorithms
+## Algorithms
 
 ![Searching Algorithms](https://img.shields.io/badge/Searching_Algorithms-0891B2?style=for-the-badge)
 <!-- ![Sorting Algorithms](https://img.shields.io/badge/Sorting_Algorithms-E11D48?style=for-the-badge)
