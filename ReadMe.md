@@ -12,28 +12,20 @@
     <td><a href="https://example.com/3" target="_blank" rel="noopener noreferrer">JAVASCRIPT</a></td>
     <td><a href="https://example.com/4" target="_blank" rel="noopener noreferrer">REACT</a></td>
     <td><a href="https://example.com/4" target="_blank" rel="noopener noreferrer">NEXTJS</a></td>
+    <td><a href="https://example.com/4" target="_blank" rel="noopener noreferrer">REACT NATIVE</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://example.com/5" target="_blank" rel="noopener noreferrer">Link 5</a></td>
-    <td><a href="https://example.com/6" target="_blank" rel="noopener noreferrer">Link 6</a></td>
-    <td><a href="https://example.com/7" target="_blank" rel="noopener noreferrer">Link 7</a></td>
-    <td><a href="https://example.com/8" target="_blank" rel="noopener noreferrer">Link 8</a></td>
+    <td><a href="https://example.com/5" target="_blank" rel="noopener noreferrer">EXPRESSJS</a></td>
+    <td><a href="https://example.com/6" target="_blank" rel="noopener noreferrer">MYSQL</a></td>
+    <td><a href="https://example.com/6" target="_blank" rel="noopener noreferrer">ELASTIC SEARCH</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://example.com/9" target="_blank" rel="noopener noreferrer">Link 9</a></td>
-    <td><a href="https://example.com/10" target="_blank" rel="noopener noreferrer">Link 10</a></td>
-    <td><a href="https://example.com/11" target="_blank" rel="noopener noreferrer">Link 11</a></td>
-    <td><a href="https://example.com/12" target="_blank" rel="noopener noreferrer">Link 12</a></td>
+    <td><a href="https://example.com/9" target="_blank" rel="noopener noreferrer">GIT & GITHUB</a></td>
+    <td><a href="https://example.com/10" target="_blank" rel="noopener noreferrer">DEVOPS</a></td>
   </tr>
-
-  <tr>
-    <td><a href="https://example.com/13" target="_blank" rel="noopener noreferrer">Link 13</a></td>
-    <td><a href="https://example.com/14" target="_blank" rel="noopener noreferrer">Link 14</a></td>
-    <td><a href="https://example.com/15" target="_blank" rel="noopener noreferrer">Link 15</a></td>
-    <td><a href="https://example.com/16" target="_blank" rel="noopener noreferrer">Link 16</a></td>
-  </tr>
+  
 </table>
 
 <!-- # 💻 Tech Stack -->
