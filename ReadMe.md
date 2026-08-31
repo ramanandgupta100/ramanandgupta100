@@ -6,7 +6,7 @@
 <!-- # Hi, I am Ramanand Gupta 👋 I build App and Website ! -->
 
 <table>
-  <caption>COMPLETE LEARNING NOTES</caption>
+  <caption>COMPLETE NOTES</caption>
   <tr>
     <td><a href="https://ramanandgupta100.github.io/HTML-Complete-Learning/">HTML</a></td>
     <td><a href="https://ramanandgupta100.github.io/CSS-Complete-Learning/">CSS</a></td>
