@@ -64,7 +64,7 @@
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/react%20testing%20library-%23E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![React Native Testing Library](https://img.shields.io/badge/react%20native%20testing%20library-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![SuperTest](https://img.shields.io/badge/supertest-%23000000.svg?style=for-the-badge&logo=jest&logoColor=white)
+![SuperTest](https://img.shields.io/badge/supertest-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 <img src="https://media.licdn.com/dms/image/v2/D5612AQFkUoKfSVVgYQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713935415584?e=2147483647&v=beta&t=wTUYZrnxhDx4LEhQ433gCc2Oij9-EyzGzFweGK0OptQ" width="80" alt="Playwright" />
 <img src="./maestro.png" width="80" alt="Maestro" />
 
