@@ -59,9 +59,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Testing
-<img src="./maestro.png" width="80" alt="Maestro"/>
-<img src="https://media.licdn.com/dms/image/v2/D5612AQFkUoKfSVVgYQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713935415584?e=2147483647&v=beta&t=wTUYZrnxhDx4LEhQ433gCc2Oij9-EyzGzFweGK0OptQ" width="80" alt="Playwright"/>
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<img src="./maestro.png" width="80" alt="Maestro" />            <img src="https://media.licdn.com/dms/image/v2/D5612AQFkUoKfSVVgYQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713935415584?e=2147483647&v=beta&t=wTUYZrnxhDx4LEhQ433gCc2Oij9-EyzGzFweGK0OptQ" width="80" alt="Playwright" />     ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ## DevOps 
 <!--🚀-->
