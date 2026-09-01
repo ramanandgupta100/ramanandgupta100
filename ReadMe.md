@@ -75,7 +75,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)  
 
-#### version controls, package managers, testers, ci cd, server managers, cdn
+#### version controls, package managers, ci cd, server managers, cdn
 
 
 ## Search Engine 
