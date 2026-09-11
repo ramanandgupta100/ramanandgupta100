@@ -8,9 +8,9 @@
 <table>
   <caption>COMPLETE NOTES</caption>
   <tr>
+    <td><a href="https://ramanandgupta100.github.io/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
     <td><a href="https://ramanandgupta100.github.io/HTML-Complete-Learning/">HTML</a></td>
     <td><a href="https://ramanandgupta100.github.io/CSS-Complete-Learning/">CSS</a></td>
-    <td><a href="https://ramanandgupta100.github.io/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
     <td><a href="https://ramanandgupta100.github.io/REACT-Complete-Learning/">REACT</a></td>
     <td><a href="https://ramanandgupta100.github.io/NEXTJS-Complete-Learning/">NEXTJS</a></td>
     <td><a href="https://ramanandgupta100.github.io/REACT-NATIVE-Complete-Learning/">REACT NATIVE</a></td>
