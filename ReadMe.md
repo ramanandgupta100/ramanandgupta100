@@ -20,11 +20,8 @@
     <td><a href="https://github.com/ramanandgupta100/EXPRESSJS-Complete-Learning/">EXPRESSJS</a></td>
     <td><a href="https://github.com/ramanandgupta100/MYSQL-Complete-Learning/">MYSQL</a></td>
     <td><a href="https://github.com/ramanandgupta100/ELASTIC-SEARCH-Complete-Learning/">ELASTIC SEARCH</a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/ramanandgupta100/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
     <td><a href="https://github.com/ramanandgupta100/DEVOPS-Complete-Learning/">DEVOPS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
   </tr>
 
   <tr>
