@@ -8,42 +8,40 @@
 <table>
   <caption>COMPLETE NOTES</caption>
   <tr>
-    <td><a href="https://ramanandgupta100.github.io/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
-    <td><a href="https://ramanandgupta100.github.io/HTML-Complete-Learning/">HTML</a></td>
-    <td><a href="https://ramanandgupta100.github.io/CSS-Complete-Learning/">CSS</a></td>
-    <td><a href="https://ramanandgupta100.github.io/REACT-Complete-Learning/">REACT</a></td>
-    <td><a href="https://ramanandgupta100.github.io/NEXTJS-Complete-Learning/">NEXTJS</a></td>
-    <td><a href="https://ramanandgupta100.github.io/REACT-NATIVE-Complete-Learning/">REACT NATIVE</a></td>
+    <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/HTML-Complete-Learning/">HTML</a></td>
+    <td><a href="https://github.com/ramanandgupta100/CSS-Complete-Learning/">CSS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/REACT-Complete-Learning/">REACT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/NEXTJS-Complete-Learning">NEXTJS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/REACT-NATIVE-Complete-Learning">REACT NATIVE</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://ramanandgupta100.github.io/EXPRESSJS-Complete-Learning/">EXPRESSJS</a></td>
-    <td><a href="https://ramanandgupta100.github.io/MYSQL-Complete-Learning/">MYSQL</a></td>
-    <td><a href="https://ramanandgupta100.github.io/ELASTIC-SEARCH-Complete-Learning/">ELASTIC SEARCH</a></td>
+    <td><a href="https://github.com/ramanandgupta100/EXPRESSJS-Complete-Learning/">EXPRESSJS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/MYSQL-Complete-Learning/">MYSQL</a></td>
+    <td><a href="https://github.com/ramanandgupta100/ELASTIC-SEARCH-Complete-Learning/">ELASTIC SEARCH</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://ramanandgupta100.github.io/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
-    <td><a href="https://ramanandgupta100.github.io/DEVOPS-Complete-Learning/">DEVOPS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
+    <td><a href="https://github.com/ramanandgupta100/DEVOPS-Complete-Learning/">DEVOPS</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/PYTHON/">PYTHON</a></td>
+    <td><a href="https://github.com/ramanandgupta100/RUST/">RUST</a></td>
+    <td><a href="https://github.com/ramanandgupta100/RUBY/">RUBY</a></td>
+    <td><a href="https://github.com/ramanandgupta100/GO/">GO</a></td>
+    <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
+    <td><a href="https://github.com/ramanandgupta100/C++/">C++</a></td>
+    <td><a href="https://github.com/ramanandgupta100/C/">C</a></td>
+    <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
   </tr>
   
 </table>
 
 <!-- # 💻 Tech Stack -->
-
-## All Languages
-<!--🔧-->
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
 
 ## Frontend 
 <!--🎨-->
@@ -162,3 +160,16 @@ No-Code Website in Minutes
 ![LiteSpeed Cache](https://img.shields.io/badge/LiteSpeed_Cache-00A651?style=for-the-badge)
 ![WPForms](https://img.shields.io/badge/WPForms-F59E0B?style=for-the-badge)
 ![UpdraftPlus](https://img.shields.io/badge/UpdraftPlus-0EA5E9?style=for-the-badge)
+
+## All Languages
+<!--🔧-->
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
