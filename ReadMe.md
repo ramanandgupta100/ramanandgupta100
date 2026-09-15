@@ -32,8 +32,10 @@
     <td><a href="https://github.com/ramanandgupta100/RUBY/">RUBY</a></td>
     <td><a href="https://github.com/ramanandgupta100/GO/">GO</a></td>
     <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
+    <td><a href="https://github.com/ramanandgupta100/SWIFT/">SWIFT</a></td>
     <td><a href="https://github.com/ramanandgupta100/CPP/">C++</a></td>
     <td><a href="https://github.com/ramanandgupta100/C/">C</a></td>
+    <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
     <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
   </tr>
   
