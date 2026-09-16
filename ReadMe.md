@@ -23,10 +23,7 @@
     <td><a href="https://github.com/ramanandgupta100/DEVOPS-Complete-Learning/">DEVOPS</a></td>
     <td><a href="https://github.com/ramanandgupta100/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
   </tr>
-  
-</table>
 
-<table>
   <tr>
     <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
     <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
@@ -41,7 +38,9 @@
     <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
     <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
   </tr>
+  
 </table>
+
 
 <!-- # 💻 Tech Stack -->
 
