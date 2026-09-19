@@ -28,11 +28,11 @@
     <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
     <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
     <td><a href="https://github.com/ramanandgupta100/PYTHON/">PYTHON</a></td>
+    <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
+    <td><a href="https://github.com/ramanandgupta100/SWIFT/">SWIFT</a></td>
     <td><a href="https://github.com/ramanandgupta100/RUST/">RUST</a></td>
     <td><a href="https://github.com/ramanandgupta100/RUBY/">RUBY</a></td>
     <td><a href="https://github.com/ramanandgupta100/GO/">GO</a></td>
-    <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
-    <td><a href="https://github.com/ramanandgupta100/SWIFT/">SWIFT</a></td>
     <td><a href="https://github.com/ramanandgupta100/CPP/">C++</a></td>
     <td><a href="https://github.com/ramanandgupta100/C/">C</a></td>
     <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
