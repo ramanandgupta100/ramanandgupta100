@@ -68,6 +68,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![cURL](https://img.shields.io/badge/cURL-111827?style=for-the-badge&logo=curl&logoColor=white)](#)
 
 ## Tests
 ![ESLint](https://img.shields.io/badge/eslint-%234B32C3.svg?style=for-the-badge&logo=eslint&logoColor=white)
@@ -78,6 +79,8 @@
 ![SuperTest](https://img.shields.io/badge/supertest-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 <img src="https://media.licdn.com/dms/image/v2/D5612AQFkUoKfSVVgYQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1713935415584?e=2147483647&v=beta&t=wTUYZrnxhDx4LEhQ433gCc2Oij9-EyzGzFweGK0OptQ" width="110" alt="Playwright" />
 <img src="./maestro.png" width="110" alt="Maestro" />
+[![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)](#)
+[![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)](#)
 
 
 ## DevOps 
