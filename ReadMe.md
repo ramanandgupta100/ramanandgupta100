@@ -5,42 +5,6 @@
 
 <!-- # Hi, I am Ramanand Gupta 👋 I build App and Website ! -->
 
-<table>
-  <caption>NOTES :</caption>
-  <tr>
-    <td><a href="https://github.com/ramanandgupta100/HTML-Complete-Learning/">HTML</a></td>
-    <td><a href="https://github.com/ramanandgupta100/CSS-Complete-Learning/">CSS</a></td>
-    <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
-    <td><a href="https://github.com/ramanandgupta100/REACT-Complete-Learning/">REACT</a></td>
-    <td><a href="https://github.com/ramanandgupta100/NEXTJS-Complete-Learning">NEXTJS</a></td>
-    <td><a href="https://github.com/ramanandgupta100/REACT-NATIVE-Complete-Learning">REACT NATIVE</a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/ramanandgupta100/EXPRESSJS-Complete-Learning/">EXPRESSJS</a></td>
-    <td><a href="https://github.com/ramanandgupta100/MYSQL-Complete-Learning/">MYSQL</a></td>
-    <td><a href="https://github.com/ramanandgupta100/ELASTIC-SEARCH-Complete-Learning/">ELASTIC SEARCH</a></td>
-    <td><a href="https://github.com/ramanandgupta100/DEVOPS-Complete-Learning/">DEVOPS</a></td>
-    <td><a href="https://github.com/ramanandgupta100/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
-  </tr>
-
-  <tr>
-    <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
-    <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
-    <td><a href="https://github.com/ramanandgupta100/PYTHON/">PYTHON</a></td>
-    <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
-    <td><a href="https://github.com/ramanandgupta100/SWIFT/">SWIFT</a></td>
-    <td><a href="https://github.com/ramanandgupta100/RUST/">RUST</a></td>
-    <td><a href="https://github.com/ramanandgupta100/RUBY/">RUBY</a></td>
-    <td><a href="https://github.com/ramanandgupta100/GO/">GO</a></td>
-    <td><a href="https://github.com/ramanandgupta100/CPP/">C++</a></td>
-    <td><a href="https://github.com/ramanandgupta100/C/">C</a></td>
-    <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
-  </tr>
-  
-</table>
-
-
 <!-- # 💻 Tech Stack -->
 
 ## Frontend 
@@ -177,3 +141,39 @@ No-Code Website in Minutes
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+
+<table>
+  <caption>NOTES :</caption>
+  <tr>
+    <td><a href="https://github.com/ramanandgupta100/HTML-Complete-Learning/">HTML</a></td>
+    <td><a href="https://github.com/ramanandgupta100/CSS-Complete-Learning/">CSS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/REACT-Complete-Learning/">REACT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/NEXTJS-Complete-Learning">NEXTJS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/REACT-NATIVE-Complete-Learning">REACT NATIVE</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ramanandgupta100/EXPRESSJS-Complete-Learning/">EXPRESSJS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/MYSQL-Complete-Learning/">MYSQL</a></td>
+    <td><a href="https://github.com/ramanandgupta100/ELASTIC-SEARCH-Complete-Learning/">ELASTIC SEARCH</a></td>
+    <td><a href="https://github.com/ramanandgupta100/DEVOPS-Complete-Learning/">DEVOPS</a></td>
+    <td><a href="https://github.com/ramanandgupta100/GIT-AND-GITHUB-Complete-Learning/">GIT & GITHUB</a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/PYTHON/">PYTHON</a></td>
+    <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
+    <td><a href="https://github.com/ramanandgupta100/SWIFT/">SWIFT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/RUST/">RUST</a></td>
+    <td><a href="https://github.com/ramanandgupta100/RUBY/">RUBY</a></td>
+    <td><a href="https://github.com/ramanandgupta100/GO/">GO</a></td>
+    <td><a href="https://github.com/ramanandgupta100/CPP/">C++</a></td>
+    <td><a href="https://github.com/ramanandgupta100/C/">C</a></td>
+    <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
+  </tr>
+  
+</table>
