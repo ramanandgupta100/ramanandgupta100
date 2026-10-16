@@ -131,6 +131,7 @@ No-Code Website in Minutes
 ## All Languages
 <!--🔧-->
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330)
+<!--
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -141,6 +142,7 @@ No-Code Website in Minutes
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+-->
 
 
 <table>
@@ -164,7 +166,7 @@ No-Code Website in Minutes
 
   <tr>
     <td><a href="https://github.com/ramanandgupta100/JAVASCRIPT-Complete-Learning/">JAVASCRIPT</a></td>
-    <!-- <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
+    <td><a href="https://github.com/ramanandgupta100/TYPESCRIPT/">TYPESCRIPT</a></td>
     <td><a href="https://github.com/ramanandgupta100/PYTHON/">PYTHON</a></td>
     <td><a href="https://github.com/ramanandgupta100/KOTLIN/">KOTLIN</a></td>
     <td><a href="https://github.com/ramanandgupta100/SWIFT/">SWIFT</a></td>
@@ -173,7 +175,7 @@ No-Code Website in Minutes
     <td><a href="https://github.com/ramanandgupta100/GO/">GO</a></td>
     <td><a href="https://github.com/ramanandgupta100/CPP/">C++</a></td>
     <td><a href="https://github.com/ramanandgupta100/C/">C</a></td>
-    <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td> -->
+    <td><a href="https://github.com/ramanandgupta100/PHP/">PHP</a></td>
   </tr>
   
 </table>
