@@ -63,7 +63,7 @@
 [![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)](https://www.hostinger.com/) <img src="./aws.png" width="80" alt="AWS" />
 
 
-#### version controls, package managers, ci cd, server managers, cdn
+#### version controls, package managers, ci cd, server managers, cdn, hostings & cloud providers
 
 
 ## Search Engine 
